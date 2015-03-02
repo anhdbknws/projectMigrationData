@@ -45,6 +45,7 @@
 		825587AF1AA51FA5003571F0 /* PassingthoughtTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingthoughtTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		825587B41AA51FA5003571F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		825587B51AA51FA5003571F0 /* PassingthoughtTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PassingthoughtTests.m; sourceTree = "<group>"; };
+		825587BF1AA52294003571F0 /* Passingthought 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "Passingthought 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -422,6 +423,7 @@
 				825587BB1AA51FA5003571F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		825587BC1AA51FA5003571F0 /* Build configuration list for PBXNativeTarget "PassingthoughtTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +432,7 @@
 				825587BE1AA51FA5003571F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
@@ -437,9 +440,10 @@
 		8255879A1AA51FA5003571F0 /* Passingthought.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				825587BF1AA52294003571F0 /* Passingthought 2.xcdatamodel */,
 				8255879B1AA51FA5003571F0 /* Passingthought.xcdatamodel */,
 			);
-			currentVersion = 8255879B1AA51FA5003571F0 /* Passingthought.xcdatamodel */;
+			currentVersion = 825587BF1AA52294003571F0 /* Passingthought 2.xcdatamodel */;
 			path = Passingthought.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
